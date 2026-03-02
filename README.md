@@ -150,6 +150,12 @@
 1. 访问 [爱发电](https://afdian.net/@mockapi) 支持项目
 2. 选择对应套餐并完成支付
 3. 联系管理员获取专属 API Key
+#### 购买方式
+1. 前往爱发电 / PayPal 购买对应套餐
+2. 付款后通过以下方式联系我获取 API Key
+3. GitHub Issues
+  邮箱：583311561@qq.com
+ 
 
 ## 收费套餐
 
@@ -270,10 +276,13 @@ X-API-Key: free_123456
 
 ## 许可证
 
-MIT 许可证，可自由商用。
+本项目可商用、可二次开发、可部署收费。
+禁止直接倒卖源码，违者追究责任。
 
 ## 联系我们
 
 - 项目地址：[GitHub](https://github.com/username/mock-api)
 - 爱发电：[支持项目](https://afdian.net/@mockapi)
-- 邮箱：contact@mockapi.com
+- 邮箱：583311561@qq.com
+- 微信：DP583311561
+
